@@ -60039,8 +60039,8 @@ if(s)k=120
 else k=r?180:280
 if(s)j=120
 else j=r?200:350
-if(s)i=120
-else i=r?200:350
+if(s)i=170
+else i=r?260:350
 if(s)h=new A.b6(8,8,8,8)
 else h=r?new A.b6(16,12,16,12):new A.b6(24,16,24,16)
 c1=A.hQ("assets/images/logo.png",b9,b9,b9)
@@ -60099,7 +60099,7 @@ if(a.cX(t.uP).d===B.ah){s=$.dK()
 l=A.b([s,s,A.U(B.c.a3(76.5),255,255,255)],l)}else{s=$.dK()
 l=A.b([s,s,A.U(B.c.a3(76.5),158,158,158)],l)}s=q.d
 r=t.d
-return new A.de(new A.b6(0,0,q.b*1.5,20),A.Nr(p,A.CT(A.b([A.d0(p,p,30),A.hQ(o.b,B.eP,n*0.6,n*0.8),A.abf(A.q4(A.b([A.eU(o.a,A.cO(p,p,B.i,p,p,p,p,p,"AbrilFatface",p,p,s+2,p,p,B.jj,p,p,!0,p,p,p,p,p,p,p,p),p),A.d0(p,8,p),A.eU(o.c,A.cO(p,p,B.i,p,p,p,p,p,"Playfair",p,p,s,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.c9)],r),B.am,B.ox))],r),B.am,B.bU),new A.e7(p,p,p,m,p,new A.l8(B.i8,B.i7,B.ep,l,p,p),B.aX),n*0.64,p,p,p),p)},
+return new A.de(new A.b6(0,0,q.b*1.2,20),A.Nr(p,A.CT(A.b([A.d0(p,p,30),A.hQ(o.b,B.eP,n*0.6,n*0.8),A.abf(A.q4(A.b([A.eU(o.a,A.cO(p,p,B.i,p,p,p,p,p,"AbrilFatface",p,p,s+2,p,p,B.jj,p,p,!0,p,p,p,p,p,p,p,p),p),A.d0(p,8,p),A.eU(o.c,A.cO(p,p,B.i,p,p,p,p,p,"Playfair",p,p,s,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.c9)],r),B.am,B.ox))],r),B.am,B.bU),new A.e7(p,p,p,m,p,new A.l8(B.i8,B.i7,B.ep,l,p,p),B.aX),n*0.64,p,p,p),p)},
 $S:392}
 A.a27.prototype={
 $1(a){var s,r,q=this,p=null,o=q.e,n=A.hQ(a.b,B.eP,q.c,q.b),m=A.d0(p,p,12),l=A.eU(a.a,A.cO(p,p,B.i,p,p,p,p,p,"AbrilFatface",p,p,o,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.c9),k=A.d0(p,20,p),j=A.pJ(20),i=t.bk
